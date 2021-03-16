@@ -1,1 +1,7 @@
 Z:\практоскпияип\гит\testgid\testgid\bin\Debug\testgid.exe.config
+C:\Users\318222\Downloads\git\testgid\testgid\bin\Debug\testgid.exe.config
+C:\Users\318222\Downloads\git\testgid\testgid\bin\Debug\testgid.exe
+C:\Users\318222\Downloads\git\testgid\testgid\bin\Debug\testgid.pdb
+C:\Users\318222\Downloads\git\testgid\testgid\obj\Debug\testgid.csprojResolveAssemblyReference.cache
+C:\Users\318222\Downloads\git\testgid\testgid\obj\Debug\testgid.exe
+C:\Users\318222\Downloads\git\testgid\testgid\obj\Debug\testgid.pdb
